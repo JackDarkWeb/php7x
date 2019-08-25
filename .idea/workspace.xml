@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e0071ad-7df9-469d-bfd5-dfb9859a1a83" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1PuntoXzNuQ2m23DiCddPyhLxLP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\php7x" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0071ad-7df9-469d-bfd5-dfb9859a1a83" name="Default Changelist" comment="" />
+      <created>1553973468776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553973468776</updated>
+      <workItem from="1553973478527" duration="6809000" />
+      <workItem from="1554016692412" duration="1100000" />
+      <workItem from="1554036825724" duration="5444000" />
+      <workItem from="1554724686847" duration="5117000" />
+      <workItem from="1554878194180" duration="6703000" />
+      <workItem from="1555066366861" duration="5060000" />
+      <workItem from="1555248526219" duration="12034000" />
+      <workItem from="1555614620812" duration="2838000" />
+      <workItem from="1555808892651" duration="21054000" />
+      <workItem from="1556093239689" duration="3249000" />
+      <workItem from="1556270580761" duration="594000" />
+      <workItem from="1556369703212" duration="9939000" />
+      <workItem from="1556523599036" duration="5617000" />
+      <workItem from="1556587077421" duration="3891000" />
+      <workItem from="1556959062624" duration="6222000" />
+      <workItem from="1557635283099" duration="19959000" />
+      <workItem from="1557914725544" duration="2048000" />
+      <workItem from="1557989833010" duration="2443000" />
+      <workItem from="1558186286278" duration="966000" />
+      <workItem from="1558212940943" duration="6069000" />
+      <workItem from="1558240678841" duration="4633000" />
+      <workItem from="1558260526091" duration="2640000" />
+      <workItem from="1558391689524" duration="1363000" />
+      <workItem from="1558574974280" duration="1308000" />
+      <workItem from="1558746042809" duration="5830000" />
+      <workItem from="1558809842249" duration="21273000" />
+      <workItem from="1559113884752" duration="5197000" />
+      <workItem from="1559417147668" duration="598000" />
+      <workItem from="1559458021411" duration="2191000" />
+      <workItem from="1559460893422" duration="2025000" />
+      <workItem from="1559954314600" duration="3902000" />
+      <workItem from="1560147698258" duration="3298000" />
+      <workItem from="1560341537185" duration="4826000" />
+      <workItem from="1560410493707" duration="2930000" />
+      <workItem from="1560514366080" duration="5353000" />
+      <workItem from="1560583889250" duration="180000" />
+      <workItem from="1560682041963" duration="7645000" />
+      <workItem from="1560709259036" duration="6399000" />
+      <workItem from="1561141404361" duration="3394000" />
+      <workItem from="1561235068653" duration="24247000" />
+      <workItem from="1561532696633" duration="3797000" />
+      <workItem from="1566733070044" duration="1799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
