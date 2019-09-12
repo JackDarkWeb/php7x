@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<biblio>
+    <ouvrage>
+        <book editor="FAYARD" prix="20.00">
+            <title>L'empire de la honte</title>
+            <author>Jean Ziegler</author>
+            <date>2005</date>
+        </book>
+        <book editor="GALLIMARD" prix="18.00">
+            <title>Ritournelle de la faim</title>
+            <author>J.M.G Le Clezio</author>
+            <date>2008</date>
+        </book>
+    </ouvrage>
+
+    <music>
+        <disque editor="Deutsche Gramnophon" Prix="14.00">
+            <title>5 eme Symphonie</title>
+            <author>Ludwig van BEETHOVEN</author>
+            <date>1808</date>
+        </disque>
+        <disque editor="EMI" Prix="14.00">
+            <title>Suites pour violoncelle</title>
+            <author>Johann Sebastian BASH</author>
+            <date>1725</date>
+        </disque>
+    </music>
+
+</biblio>

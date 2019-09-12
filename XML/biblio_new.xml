@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblio>
+    <book editor="FAYARD" prix="20.00">
+        <title>L'empire de la honte</title>
+        <author>Jean Ziegler</author>
+        <date>2005</date>
+    </book>
+    <book editor="GALLIMARD" prix="18.00">
+        <title>L empire de la honte</title>
+        <author>J.M.G Le Clezio</author>
+        <date>2009</date>
+    </book>
+</biblio>
